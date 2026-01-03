@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualKeyboard Version="10.0">
+  <Header>
+    <Flags>
+      <Flag value="1"/>
+    </Flags>
+  </Header>
+
+  <Keys>
+    <Key Id="K_A">
+      <Text>𞣁</Text>
+    </Key>
+    <Key Id="K_B">
+      <Text>𞣂</Text>
+    </Key>
+    <Key Id="K_C">
+      <Text>𞣃</Text>
+    </Key>
+  </Keys>
+</VisualKeyboard>
