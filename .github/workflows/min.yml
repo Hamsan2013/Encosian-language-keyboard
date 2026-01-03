@@ -1,0 +1,5 @@
+- name: Upload KiMan package
+      uses: actions/upload-artifact@v3
+      with:
+        name: KiMan-package
+        path: build/KiMan.kmp
