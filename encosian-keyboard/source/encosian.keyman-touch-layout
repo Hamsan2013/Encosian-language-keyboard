@@ -1,0 +1,33 @@
+{
+  "phone": {
+    "font": "encosian.ttf",
+    "layer": [
+      {
+        "id": "default",
+        "row": [
+          {
+            "key": [
+              { "id": "K_A", "text": "𞣁" },
+              { "id": "K_B", "text": "𞣂" },
+              { "id": "K_C", "text": "𞣃" }
+            ]
+          },
+          {
+            "key": [
+              { "id": "K_D", "text": "𞣄" },
+              { "id": "K_E", "text": "𞣅" },
+              { "id": "K_F", "text": "𞣆" }
+            ]
+          },
+          {
+            "key": [
+              { "id": "K_G", "text": "𞣇" },
+              { "id": "K_H", "text": "𞣈" },
+              { "id": "K_I", "text": "𞣉" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
