@@ -1,0 +1,17 @@
+name: Build KiMan Keyboard
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install Keyman Developer CLI
+      run: sudo apt install keyman-developer-cli
+
+    - name: Build Keyboard
+      run: kmcomp source/KiMan.kmn build/KiMan.kmp
