@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <Name>Encosian Keyboard</Name>
+    <Version>1.0</Version>
+  </System>
+
+  <Keyboards>
+    <Keyboard>
+      <Name>Encosian Keyboard</Name>
+      <ID>encosian</ID>
+      <Version>1.0</Version>
+      <File>encosian.kmn</File>
+    </Keyboard>
+  </Keyboards>
+
+  <Files>
+    <File>encosian.keyman-touch-layout</File>
+    <File>encosian.ttf</File>
+  </Files>
+</Package>
